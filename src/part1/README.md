@@ -9,3 +9,4 @@
   - [ch03](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch03)：分析 `Dollar` 物件的隱含意義，並為他打造需要的方法
   - [ch04](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch04)：考慮私有性，過程中重構測試
 - AC 2：我們需要能支援以兩種不同幣別的金額相加，並根據匯率表資訊將結果轉換成某一種幣別
+  - [ch05](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch05)：開始考慮不同幣別要如何處理
