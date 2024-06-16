@@ -36,7 +36,7 @@ describe('Dollar', () => {
        return new Dollar(this.#amount * multiplier)
      }
      equals(dollar) {
-       return this.#amount === dollar.amount
+       return this.#amount === dollar.#amount
      }
    }
    ```
