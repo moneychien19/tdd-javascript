@@ -11,3 +11,4 @@
 - AC 2：我們需要能支援以兩種不同幣別的金額相加，並根據匯率表資訊將結果轉換成某一種幣別
   - [ch05](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch05)：開始考慮不同幣別要如何處理
   - [ch06](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch06)：建立共用的父類別，並將共用的方法移至父類別中
+  - [ch07](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch07)：判斷兩個類別的物件不應相同
