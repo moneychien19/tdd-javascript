@@ -17,3 +17,4 @@
   - [ch10](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch10)：將另一個共用的方法移至父類別中
   - [ch11](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch11)：在子類別只剩下建構式時，移除子類別
   - [ch12](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch12)：建立另一個類別專門處理貨幣物件的相加
+  - [ch13](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch13)：建立運算式物件處理相加
