@@ -14,3 +14,5 @@
   - [ch07](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch07)：判斷兩個類別的物件不應相同
   - [ch08](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch08)：減少對子類別的參考以消除重複設計
   - [ch09](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch09)：引入貨幣的概念，讓類別的宣告完全在父類別中進行
+  - [ch10](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch10)：將另一個共用的方法移至父類別中
+  - [ch11](https://github.com/moneychien19/tdd-javascript/blob/main/src/part1/ch11)：在子類別只剩下建構式時，移除子類別
